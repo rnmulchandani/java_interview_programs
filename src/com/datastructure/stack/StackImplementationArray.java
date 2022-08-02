@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.stack;
 
 public class StackImplementationArray {
 	static final int capacity = 1000;

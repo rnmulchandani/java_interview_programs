@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.queue;
 
 public class QueueImplementationArray {
 	static final int capacity = 1000;
